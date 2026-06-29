@@ -72,3 +72,7 @@ If you use this code or data, please cite the corresponding paper: *(Citation de
 
 To reference the original MEDWACS framework, please cite: 
 Yoo D., Maggiore U., & Jolliet O. (2026). *Enhancing prediabetes and diabetes detection through a machine learning-enabled self-assessment approach*. Journal of Clinical Epidemiology. <https://doi.org/10.1016/j.jclinepi.2026.112266>
+
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
